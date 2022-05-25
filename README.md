@@ -1,0 +1,2 @@
+# Bot
+test birinchi bot
